@@ -27,7 +27,7 @@ image:
 
 ## Preprints/In-Press
 
-- Urminder Singh, Jing Li, **Arun S Seetharam** and Eve S Wurtele. pyrpipe: a python package for rna-seq workfows. _BioRxiv_, page 925818, 2020.
+- Urminder Singh, Jing Li, **Arun S Seetharam** and Eve S Wurtele. pyrpipe: a python package for rna-seq workfows. _bioRxiv_, page 925818, 2020.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.03.04.925818)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/urmi-21/pyrpipe)
 
@@ -45,7 +45,7 @@ image:
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/dawelab/Ab10-Assembly)
 
 
-- Shujun Ou, Jianing Liu, Kapeel M. Chougule, Arkarachai Fungtammasan, **Arun Seetharam**, Joshua Stein, Victor Llaca, Nancy Manchanda, Amanda M. Gilbert, Xuehong Wei, Chen-Shan Chin, David E. Hufnagel, Sarah Pedersen, Samantha Snodgrass, Kevin Fengler, Margaret Woodhouse, Brian P. Walenz, Sergey Koren, Adam M. Phillippy, Brett Hannigan, R. Kelly Dawe, Candice N. Hirsch, Matthew B. Hufford, Doreen Ware. Effect of sequence depth and length in long-read assembly of the maize inbred NC358. _BioRxiv_, page 858365, 2019. _(accepted in Nature Communications)_
+- Shujun Ou, Jianing Liu, Kapeel M. Chougule, Arkarachai Fungtammasan, **Arun Seetharam**, Joshua Stein, Victor Llaca, Nancy Manchanda, Amanda M. Gilbert, Xuehong Wei, Chen-Shan Chin, David E. Hufnagel, Sarah Pedersen, Samantha Snodgrass, Kevin Fengler, Margaret Woodhouse, Brian P. Walenz, Sergey Koren, Adam M. Phillippy, Brett Hannigan, R. Kelly Dawe, Candice N. Hirsch, Matthew B. Hufford, Doreen Ware. Effect of sequence depth and length in long-read assembly of the maize inbred NC358. _bioRxiv_, page 858365, 2019. _(accepted in Nature Communications)_
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/858365)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/HuffordLab/Maize_NC358)
 
