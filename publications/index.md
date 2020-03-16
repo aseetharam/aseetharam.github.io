@@ -31,17 +31,6 @@ image:
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.03.04.925818)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/urmi-21/pyrpipe)
 
-
-- Jianing Liu, **Arun S Seetharam**, Kapeel Chougule, Shujun Ou, Kyle William Swentowsky, Jonathan Isaiah Gent, Victor Llaca, Margaret Woodhouse, Nancy Manchanda, Gernot G Presting, David Kudrna, Magdy Alabady, Candice Hirsch, Kevin Fengler, Doreen Ware, Todd Michael, Matthew Hufford, Kelly Dawe. Gapless assembly of maize chromosomes using long read technologies. _bioRxiv_, 2020.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.01.14.906230)
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/dawelab/Ab10-Assembly)
-
-
-- Shujun Ou, Jianing Liu, Kapeel M. Chougule, Arkarachai Fungtammasan, **Arun Seetharam**, Joshua Stein, Victor Llaca, Nancy Manchanda, Amanda M. Gilbert, Xuehong Wei, Chen-Shan Chin, David E. Hufnagel, Sarah Pedersen, Samantha Snodgrass, Kevin Fengler, Margaret Woodhouse, Brian P. Walenz, Sergey Koren, Adam M. Phillippy, Brett Hannigan, R. Kelly Dawe, Candice N. Hirsch, Matthew B. Hufford, Doreen Ware. Effect of sequence depth and length in long-read assembly of the maize inbred NC358. _BioRxiv_, page 858365, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/858365)
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/HuffordLab/Maize_NC358)
-
-
 - **Arun S Seetharam**, Urminder Singh, Jing Li, Priyanka Bhandary, Zebulun Arendsee, and Eve Syrkin Wurtele. Maximizing prediction of orphan genes in assembled genomes. _bioRxiv_, 2019.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2019.12.17.880294)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/eswlab/orphan-prediction)
@@ -51,17 +40,21 @@ image:
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://doi.org/10.1101/611814)
 [<img src="https://img.shields.io/badge/-python-lightblue?style=flat&logo=python"/>](https://github.com/ISUgenomics/SequelTools)
 
+- Jianing Liu, **Arun S Seetharam**, Kapeel Chougule, Shujun Ou, Kyle William Swentowsky, Jonathan Isaiah Gent, Victor Llaca, Margaret Woodhouse, Nancy Manchanda, Gernot G Presting, David Kudrna, Magdy Alabady, Candice Hirsch, Kevin Fengler, Doreen Ware, Todd Michael, Matthew Hufford, Kelly Dawe. Gapless assembly of maize chromosomes using long read technologies. _bioRxiv_, 2020. _(accepted in Genome Biology)_
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.01.14.906230)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/dawelab/Ab10-Assembly)
 
 
-- Karthik Murugan, **Arun S Seetharam**, Andrew J Severin, and Dipali G Sashital. Pervasive off-target and double-stranded DNA nicking by CRISPR-Cas12a. _BioRxiv_, page 657791, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/657791)
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/ISUgenomics/sashital-lab/tree/master/2019_cas12aNickase)
-
-
-
-
+- Shujun Ou, Jianing Liu, Kapeel M. Chougule, Arkarachai Fungtammasan, **Arun Seetharam**, Joshua Stein, Victor Llaca, Nancy Manchanda, Amanda M. Gilbert, Xuehong Wei, Chen-Shan Chin, David E. Hufnagel, Sarah Pedersen, Samantha Snodgrass, Kevin Fengler, Margaret Woodhouse, Brian P. Walenz, Sergey Koren, Adam M. Phillippy, Brett Hannigan, R. Kelly Dawe, Candice N. Hirsch, Matthew B. Hufford, Doreen Ware. Effect of sequence depth and length in long-read assembly of the maize inbred NC358. _BioRxiv_, page 858365, 2019. _(accepted in Nature Communications)_
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/858365)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/HuffordLab/Maize_NC358)
 
 ## 2020
+
+- Karthik Murugan, **Arun S Seetharam**, Andrew J Severin, and Dipali G Sashital. CRISPR-Cas12a has widespread off-target and dsDNA-nicking effects. _Journal of Biological Chemistry_, jbc-RA120, 2020.
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1074/jbc.RA120.012933)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/ISUgenomics/sashital-lab/tree/master/2019_cas12aNickase)
+
 
 - Nancy Manchanda, John L Portwood, Margaret R Woodhouse, **Arun S Seetharam**, Carolyn J Lawrence-Dill, Carson M Andorf, and Matthew B Hufford. GenomeQC: A quality assessment tool for genome assemblies and gene structure annotations _BMC Genomics_ 21(193), 2020.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1186/s12864-020-6568-2)
