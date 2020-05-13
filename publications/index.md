@@ -27,6 +27,10 @@ image:
 
 ## Preprints/In-Press
 
+- Karthik Murugan, **Arun S Seetharam**, Andrew J Severin, and Dipali G Sashital. High-throughput in vitro specificity profiling of natural and high-fidelity CRISPR-Cas9 variants. _bioRxiv_, 2020.05.12.091991, 2020.
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.05.12.091991)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/sashital-lab/Cas9_specificity)
+
 - Urminder Singh, Jing Li, **Arun S Seetharam** and Eve S Wurtele. pyrpipe: a python package for rna-seq workfows. _bioRxiv_, page 925818, 2020.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.03.04.925818)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/urmi-21/pyrpipe)
@@ -45,11 +49,12 @@ image:
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/dawelab/Ab10-Assembly)
 
 
-- Shujun Ou, Jianing Liu, Kapeel M. Chougule, Arkarachai Fungtammasan, **Arun Seetharam**, Joshua Stein, Victor Llaca, Nancy Manchanda, Amanda M. Gilbert, Xuehong Wei, Chen-Shan Chin, David E. Hufnagel, Sarah Pedersen, Samantha Snodgrass, Kevin Fengler, Margaret Woodhouse, Brian P. Walenz, Sergey Koren, Adam M. Phillippy, Brett Hannigan, R. Kelly Dawe, Candice N. Hirsch, Matthew B. Hufford, Doreen Ware. Effect of sequence depth and length in long-read assembly of the maize inbred NC358. _bioRxiv_, page 858365, 2019. _(accepted in Nature Communications)_
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/858365)
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/HuffordLab/Maize_NC358)
 
 ## 2020
+
+- Shujun Ou, Jianing Liu, Kapeel M. Chougule, Arkarachai Fungtammasan, **Arun Seetharam**, Joshua Stein, Victor Llaca, Nancy Manchanda, Amanda M. Gilbert, Xuehong Wei, Chen-Shan Chin, David E. Hufnagel, Sarah Pedersen, Samantha Snodgrass, Kevin Fengler, Margaret Woodhouse, Brian P. Walenz, Sergey Koren, Adam M. Phillippy, Brett Hannigan, R. Kelly Dawe, Candice N. Hirsch, Matthew B. Hufford, Doreen Ware. Effect of sequence depth and length in long-read assembly of the maize inbred NC358. _bioRxiv_, page 858365, 2019. _Nature Communications_ 11(2288), 2020
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1038/s41467-020-16037-7)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/HuffordLab/Maize_NC358)
 
 - Karthik Murugan, **Arun S Seetharam**, Andrew J Severin, and Dipali G Sashital. CRISPR-Cas12a has widespread off-target and dsDNA-nicking effects. _Journal of Biological Chemistry_, jbc-RA120, 2020.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1074/jbc.RA120.012933)
