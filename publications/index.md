@@ -44,13 +44,14 @@ image:
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://doi.org/10.1101/611814)
 [<img src="https://img.shields.io/badge/-python-lightblue?style=flat&logo=python"/>](https://github.com/ISUgenomics/SequelTools)
 
-- Jianing Liu, **Arun S Seetharam**, Kapeel Chougule, Shujun Ou, Kyle William Swentowsky, Jonathan Isaiah Gent, Victor Llaca, Margaret Woodhouse, Nancy Manchanda, Gernot G Presting, David Kudrna, Magdy Alabady, Candice Hirsch, Kevin Fengler, Doreen Ware, Todd Michael, Matthew Hufford, Kelly Dawe. Gapless assembly of maize chromosomes using long read technologies. _bioRxiv_, 2020. _(accepted in Genome Biology)_
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.01.14.906230)
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/dawelab/Ab10-Assembly)
-
-
 
 ## 2020
+
+- Jianing Liu, **Arun S Seetharam**, Kapeel Chougule, Shujun Ou, Kyle W. Swentowsky, Jonathan I. Gent, Victor Llaca, Margaret R. Woodhouse, Nancy Manchanda, Gernot G. Presting, David A. Kudrna, Magdy Alabady, Candice N. Hirsch, Kevin A. Fengler, Doreen Ware, Todd P. Michael, Matthew B. Hufford and R. Kelly Dawe,
+Gapless assembly of maize chromosomes using long read technologies.
+_Genome Biology_, (21) 121, 2020.
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1186/s13059-020-02029-9)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/dawelab/Ab10-Assembly)
 
 - Shujun Ou, Jianing Liu, Kapeel M. Chougule, Arkarachai Fungtammasan, **Arun Seetharam**, Joshua Stein, Victor Llaca, Nancy Manchanda, Amanda M. Gilbert, Xuehong Wei, Chen-Shan Chin, David E. Hufnagel, Sarah Pedersen, Samantha Snodgrass, Kevin Fengler, Margaret Woodhouse, Brian P. Walenz, Sergey Koren, Adam M. Phillippy, Brett Hannigan, R. Kelly Dawe, Candice N. Hirsch, Matthew B. Hufford, Doreen Ware. Effect of sequence depth and length in long-read assembly of the maize inbred NC358. _bioRxiv_, page 858365, 2019. _Nature Communications_ 11(2288), 2020
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1038/s41467-020-16037-7)
