@@ -37,3 +37,5 @@ Our work has also been highlighted by various online news journals, showing its 
 7.	**March 1, 2019:** _“ISU scientists overcome repetitive DNA to sequence the genome of devastating soybean pest”_ [**read more...**](https://www.news.iastate.edu/news/2019/03/01/soybeancystnematodegenome).
 
 8. **May 21, 2020:** _“Teachers make genomes more useful… from home: Imagine a book written with all the right words, but no spaces between words, no punctuation, no chapter headings—it would look like a senseless string of letters one after the other. That is what the first draft of a genome sequence looks like.”_ [**read more...**](https://www.cshl.edu/teachers-make-genomes-more-useful-from-home/)
+
+9. **[Impact Story](https://profiles.impactstory.org/u/0000-0002-6789-9298)**
