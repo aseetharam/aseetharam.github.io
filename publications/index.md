@@ -29,7 +29,7 @@ image:
 
 - Karthik Murugan, **Arun S Seetharam**, Andrew J Severin, and Dipali G Sashital. High-throughput in vitro specificity profiling of natural and high-fidelity CRISPR-Cas9 variants. _bioRxiv_, 2020.05.12.091991, 2020.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.05.12.091991)
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/sashital-lab/Cas9_specificity)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/sashital-lab/Cas9_specificity) <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="81901958"></div> 
 
 - Urminder Singh, Jing Li, **Arun S Seetharam** and Eve S Wurtele. pyrpipe: a python package for rna-seq workfows. _bioRxiv_, page 925818, 2020.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.03.04.925818)
