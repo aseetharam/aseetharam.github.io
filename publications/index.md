@@ -29,7 +29,7 @@ image:
 
 - Karthik Murugan, **Arun S Seetharam**, Andrew J Severin, and Dipali G Sashital. High-throughput in vitro specificity profiling of natural and high-fidelity CRISPR-Cas9 variants. _bioRxiv_, 2020.05.12.091991, 2020.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.05.12.091991)
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/sashital-lab/Cas9_specificity) <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="81901958"></div> 
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/sashital-lab/Cas9_specificity)
 
 - Urminder Singh, Jing Li, **Arun S Seetharam** and Eve S Wurtele. pyrpipe: a python package for rna-seq workfows. _bioRxiv_, page 925818, 2020.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.03.04.925818)
@@ -39,13 +39,14 @@ image:
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2019.12.17.880294)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/eswlab/orphan-prediction)
 
-- David E Hufnagel, Matthew B Hufford, and **Arun S Seetharam**. SequelTools: A suite of tools for working with PacBio Sequel raw sequence data. _bioRxiv_, page 611814, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://doi.org/10.1101/611814)
-[<img src="https://img.shields.io/badge/-python-lightblue?style=flat&logo=python"/>](https://github.com/ISUgenomics/SequelTools)
 
 
 ## 2020
+
+- David E Hufnagel, Matthew B Hufford, and **Arun S Seetharam**. SequelTools: a suite of tools for working with PacBio Sequel raw sequence data. _BMC Bioinformatics_, (21) 429, 2020.
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1186/s12859-020-03751-8)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/ISUgenomics/SequelTools)
+
 
 - Jianing Liu, **Arun S Seetharam**, Kapeel Chougule, Shujun Ou, Kyle W. Swentowsky, Jonathan I. Gent, Victor Llaca, Margaret R. Woodhouse, Nancy Manchanda, Gernot G. Presting, David A. Kudrna, Magdy Alabady, Candice N. Hirsch, Kevin A. Fengler, Doreen Ware, Todd P. Michael, Matthew B. Hufford and R. Kelly Dawe,
 Gapless assembly of maize chromosomes using long read technologies.
