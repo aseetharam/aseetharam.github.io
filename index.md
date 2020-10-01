@@ -17,4 +17,4 @@ I am currently employed as an Associate Scientist at [Genome Informatics Facilit
 
 **You can check-out some of my contributions in** [resources](https://aseetharam.github.io/workshops) section.
 
-**My full C.V** [<img src="https://img.shields.io/badge/pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/cv_seetharam.pdf)
+**My full C.V** [<img src="https://img.shields.io/badge/get_pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/cv_seetharam.pdf)
