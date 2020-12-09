@@ -13,10 +13,12 @@ image:
 
 I am a bioinformatician and my main interests are in the fields of genomics and evolutionary genetics. Currently, I am working on various projects involving next & third generation sequencing including genome assemblies, annotation, and identification of structural variation. I am also  developing pipelines to streamline the assembly and annotation process for newly sequenced organisms. My long-term goal is to study the genome organization and evolution of grass species.
 
-I am jointly appointed as Research Scientist by the [Department of Ecology, Evolution, and Organismal Biology (EEOB)](https://www.eeob.iastate.edu) and [Genetics, Development, and Cell Biology (GDCB)](https://www.gdcb.iastate.edu)) and hosted by [Genome Informatics Facility (GIF)](https://gif.biotech.iastate.edu/).
+I am jointly appointed as a Research Scientist by the [Department of Ecology, Evolution, and Organismal Biology (EEOB)](https://www.eeob.iastate.edu) and [Genetics, Development, and Cell Biology (GDCB)](https://www.gdcb.iastate.edu)) and hosted by [Genome Informatics Facility (GIF)](https://gif.biotech.iastate.edu/).
 
  I am currently collaborating with [Matthew Hufford](http://www.zeagenomics.org/) from Department of Ecology, Evolution, and Organismal Biology (EEOB), [Eve Wurtele](https://www.gdcb.iastate.edu/people/eve-syrkin-wurtele), and [Geetu Tuteja](https://www.tutejalab.org/) both from Department of Genetics, Development, and Cell Biology at Iowa State University, Ames, IA.
 
 **You can check-out some of my contributions in** [resources](https://aseetharam.github.io/workshops) section.
 
 **My full C.V** [<img src="https://img.shields.io/badge/get_pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/cv_seetharam.pdf)
+
+** added a new line**
