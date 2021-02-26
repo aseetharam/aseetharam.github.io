@@ -30,10 +30,6 @@ image:
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2021.01.14.426684)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/HuffordLab/NAM-genomes)
 
-- Karthik Murugan, **Arun S Seetharam**, Andrew J Severin, and Dipali G Sashital. High-throughput in vitro specificity profiling of natural and high-fidelity CRISPR-Cas9 variants. _bioRxiv_, 2020.05.12.091991, 2020.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.05.12.091991)
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/sashital-lab/Cas9_specificity)
-
 - Urminder Singh, Jing Li, **Arun S Seetharam** and Eve S Wurtele. pyrpipe: a python package for rna-seq workfows. _bioRxiv_, page 925818, 2020.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.03.04.925818)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/urmi-21/pyrpipe)
@@ -42,7 +38,18 @@ image:
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2019.12.17.880294)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/eswlab/orphan-prediction)
 
+## 2021
 
+- Wyatt A. Shell, Michael A. Steffen, Hannah K. Pare, **Arun S. Seetharam**, Andrew J. Severin, Amy L. Toth and Sandra M. Rehan.
+Sociality sculpts similar patterns of molecular evolution in two independently evolved lineages of eusocial bees.
+_Communications Biology_  (4) 253, 2021
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1038/s42003-021-01770-6)
+
+- Karthik Murugan, Shravanti Suresh,  **Arun S Seetharam**, Andrew J Severin, and Dipali G Sashital.
+Systematic in vitro specificity profiling reveals nicking defects in natural and engineered CRISPR-Cas9 variants.
+ _Nucleic Acids Research_ xx(xx):xxxx-xxxx, 2021.
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.05.12.091991)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/sashital-lab/Cas9_specificity)
 
 ## 2020
 
