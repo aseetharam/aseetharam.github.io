@@ -273,7 +273,7 @@ To run them:
 ```r
 myBubblePlot(table = myGenes_BP.table, term = "CC")
 ```
-![Barplot](assets/mybubbleplot.png)
+![Barplot](/assets/mybubbleplot.png)
 
 
 
@@ -281,7 +281,7 @@ myBubblePlot(table = myGenes_BP.table, term = "CC")
 myBarPlot(table = myGenes_BP.table, term = "CC")
 ```
 
-![Barplot](assets/mybarplot.png)
+![Barplot](/assets/mybarplot.png)
 
 You can export the plots as pdf or png using `ggsave` function. 
 
