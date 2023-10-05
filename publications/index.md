@@ -26,7 +26,7 @@ image:
 </section><!-- /#table-of-contents -->
 
 ## Preprints/In-Press
-<!-- pubs: 2; tot: 2 -->
+<!-- pubs: 4; tot: 4 -->
 - Silas Tittes, Anne Lorant, Sean McGinty, John F. Doebley, James B. Holland, Jose de Jesus Sánchez-González, **Arun S. Seetharam**, Maud Tenaillon, Jeffrey Ross-Ibarra. Not so local: the population genetics of convergent adaptation in maize and teosinte, _bioRxiv_, 10.1101/2021.09.09.459637, 2021
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2021.09.09.459637)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/silastittes/parv_local)
@@ -36,8 +36,25 @@ Differences in activity and stability drive transposable element variation in tr
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2022.10.09.511471)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/oushujun)
 
+
+- Julia Engelhorn, Samantha J. Snodgrass, Amelie Kok, **Arun S. Seetharam**, Michael Schneider, Tatjana Kiwit, Ayush Singh, Michael Banf, Merritt Khaipho-Burch, Daniel E. Runcie, Victor Sánchez Camargo, J. Vladimir Torres-Rodriguez, Guangchao Sun, Maike Stam, Fabio Fiorani, James C. Schnable, Hank W. Bass, Matthew B. Hufford, Benjamin Stich, Wolf B. Frommer, Jeffrey Ross-Ibarra, Thomas Hartwig. 
+_bioRxiv_, 10.1101/2023.08.08.551183, 2023 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2023.08.08.551183)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+
+
+- Aimee J Schulz, Jingjing Zhai, Taylor AuBuchon-Elder, Mohamed El-Walid, Taylor H Ferebee, Elizabeth H Gilmore, Matthew B Hufford, Lynn C Johnson, Elizabeth A Kellogg, Thuy La, Evan Long, Zachary R Miller, M Cinta Romay, **Arun S. Seetharam**, Michelle C Stitzer, Travis Wrightsman, Edward S Buckler, Brandon Monier, Sheng-Kai Hsu. Fishing for a reelGene: evaluating gene models with evolution and machine learning. _bioRxiv_, 10.1101/2023.09.19.558246, 2023
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2023.09.19.558246)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+
 ## 2023
 <!-- pubs: 1; tot: 39 -->
+
+- Thomas Hartwig, Michael Banf, Gisele Passaia Prietsch, Jia-Ying Zhu, Isabel Mora-Ramírez, Jos H. M. Schippers, Samantha J. Snodgrass, Arun S. Seetharam, Bruno Huettel, Judith M. Kolkman, Jinliang Yang, Julia Engelhorn, Zhi-Yong Wang, Hybrid allele-specific ChIP-seq analysis identifies variation in brassinosteroid-responsive transcription factor binding linked to traits in maize
+_Genome Biology_ 24(108) 2023.
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1186/s13059-023-02909-w)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/mbanf/HaschSeq)
+
+
 - Alyssa R. Phillips, **Arun S. Seetharam**, Taylor AuBuchon-Elder, Edward S. Buckler, Lynn J. Gillespie, Matthew B. Hufford, Victor Llaca, M. Cinta Romay, Robert J. Soreng, Elizabeth A. Kellogg, Jeffrey Ross-Ibarra. A happy accident: a novel turfgrass reference genome, _G3_, 10.1101/2022.03.08.483531, 2023
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2021.09.09.459637)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/silastittes/parv_local)
