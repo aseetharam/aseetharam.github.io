@@ -47,7 +47,7 @@ _bioRxiv_, 10.1101/2023.08.08.551183, 2023 [<img src="https://img.shields.io/bad
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
 
 ## 2023
-<!-- pubs: 1; tot: 39 -->
+<!-- pubs: 2; tot: 40 -->
 
 - Thomas Hartwig, Michael Banf, Gisele Passaia Prietsch, Jia-Ying Zhu, Isabel Mora-Ramírez, Jos H. M. Schippers, Samantha J. Snodgrass, Arun S. Seetharam, Bruno Huettel, Judith M. Kolkman, Jinliang Yang, Julia Engelhorn, Zhi-Yong Wang, Hybrid allele-specific ChIP-seq analysis identifies variation in brassinosteroid-responsive transcription factor binding linked to traits in maize
 _Genome Biology_ 24(108) 2023.
