@@ -47,7 +47,12 @@ _bioRxiv_, 10.1101/2023.08.08.551183, 2023 [<img src="https://img.shields.io/bad
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
 
 ## 2023
-<!-- pubs: 2; tot: 40 -->
+<!-- pubs: 3; tot: 41 -->
+- Jessica A. Kinkade, **Arun S. Seetharam**, Shrikesh Sachdev, Nathan J. Bivens, Brett S. Phinney, Gabriela Grigorean, R Michael Roberts, Geetu Tuteja, Cheryl S. Rosenfeld, Extracellular vesicles from mouse trophoblast cells: effects on neural progenitor cells and potential participants in the placenta-brain Axis, _Biology of Reproduction_, ioad146, 2023.
+[<img src="https://img.shields.io/badge/-Artcile-lightgrey?style=flat"/>](https://doi.org/10.1093/biolre/ioad146)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://tuteja-lab.github.io/mouse.trophoblast.smallRNAseq)
+
+
 
 - Thomas Hartwig, Michael Banf, Gisele Passaia Prietsch, Jia-Ying Zhu, Isabel Mora-Ramírez, Jos H. M. Schippers, Samantha J. Snodgrass, Arun S. Seetharam, Bruno Huettel, Judith M. Kolkman, Jinliang Yang, Julia Engelhorn, Zhi-Yong Wang, Hybrid allele-specific ChIP-seq analysis identifies variation in brassinosteroid-responsive transcription factor binding linked to traits in maize
 _Genome Biology_ 24(108) 2023.
