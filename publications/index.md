@@ -26,32 +26,84 @@ image:
 </section><!-- /#table-of-contents -->
 
 ## Preprints/In-Press
-<!-- pubs: 4; tot: 4 -->
-- Silas Tittes, Anne Lorant, Sean McGinty, John F. Doebley, James B. Holland, Jose de Jesus Sánchez-González, **Arun S. Seetharam**, Maud Tenaillon, Jeffrey Ross-Ibarra. Not so local: the population genetics of convergent adaptation in maize and teosinte, _bioRxiv_, 10.1101/2021.09.09.459637, 2021
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2021.09.09.459637)
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/silastittes/parv_local)
+<!-- pubs: 5; tot: 49 -->
 
-- Shujun Ou, Tyler Collins, Yinjie Qiu, **Arun S. Seetharam**, Claire C. Menard, Nancy Manchanda, Jonathan I Gent, Michael C. Schatz, Sarah. N. Anderson, Matthew B Hufford, and Candice N Hirsch.
-Differences in activity and stability drive transposable element variation in tropical and temperate maize. _bioRxiv_, 10.1101/2022.10.09.511471, 2022
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2022.10.09.511471)
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/oushujun)
+- Jonathan Cahn, Michael Regulski, Jason Lynn, Evan Ernst, Cristiane de Santis Alves, Srividya Ramakrishnan, Kapeel Chougule, Sharon Wei, Zhenyuan Lu, Xiaosa Xu, Jorg Drenkow, Melissa Kramer, **Arun S. Seetharam**, Matthew B. Hufford, W. Richard McCombie, Doreen Ware, David Jackson, Michael C. Schatz, Thomas R. Gingeras, and Robert A. Martienssen.
+MaizeCODE reveals bi-directionally expressed enhancers that harbor molecular signatures of maize domestication.
+_bioRxiv_,
+10.1101/2024.02.22.581585, 2024
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2024.02.22.581585)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/martienssenlab/maize-code)
 
+ 
+- Carson M. Andorf, Jeffrey Ross-Ibarra, Arun S. Seetharam, Matthew B. Hufford, and Margaret R. Woodhouse,
+A unified VCF data set from nearly 1,500 diverse maize accessions and resources to explore the genomic landscape of maize,
+_bioRxiv_, 10.1101/2024.04.30.591904, 2024
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2024.04.30.591904)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/Maize-Genetics-and-Genomics-Database/SNPversity2.0)
+[<img src="https://img.shields.io/badge/SNPversity2.0-yellow?style=flat"/>](https://wgs.maizegdb.org/)
 
-- Julia Engelhorn, Samantha J. Snodgrass, Amelie Kok, **Arun S. Seetharam**, Michael Schneider, Tatjana Kiwit, Ayush Singh, Michael Banf, Merritt Khaipho-Burch, Daniel E. Runcie, Victor Sánchez Camargo, J. Vladimir Torres-Rodriguez, Guangchao Sun, Maike Stam, Fabio Fiorani, James C. Schnable, Hank W. Bass, Matthew B. Hufford, Benjamin Stich, Wolf B. Frommer, Jeffrey Ross-Ibarra, Thomas Hartwig. 
-_bioRxiv_, 10.1101/2023.08.08.551183, 2023 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2023.08.08.551183)
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+- Julia Engelhorn, Samantha J. Snodgrass, Amelie Kok, **Arun S. Seetharam**, Michael Schneider, Tatjana Kiwit, Ayush Singh, Michael Banf, Merritt Khaipho-Burch, Daniel E. Runcie, Victor Sánchez Camargo, J. Vladimir Torres-Rodriguez, Guangchao Sun, Maike Stam, Fabio Fiorani, James C. Schnable, Hank W. Bass, Matthew B. Hufford, Benjamin Stich, Wolf B. Frommer, Jeffrey Ross-Ibarra, and Thomas Hartwig.
+Genetic variation at transcription factor binding sites largely explains phenotypic heritability in maize.
+_bioRxiv_, 10.1101/2023.08.08.551183, 2023
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2023.08.08.551183)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/Snodgras/MOA_Analysis)
 
-
-- Aimee J Schulz, Jingjing Zhai, Taylor AuBuchon-Elder, Mohamed El-Walid, Taylor H Ferebee, Elizabeth H Gilmore, Matthew B Hufford, Lynn C Johnson, Elizabeth A Kellogg, Thuy La, Evan Long, Zachary R Miller, M Cinta Romay, **Arun S. Seetharam**, Michelle C Stitzer, Travis Wrightsman, Edward S Buckler, Brandon Monier, Sheng-Kai Hsu. Fishing for a reelGene: evaluating gene models with evolution and machine learning. _bioRxiv_, 10.1101/2023.09.19.558246, 2023
+- Aimee J Schulz, Jingjing Zhai, Taylor AuBuchon-Elder, Mohamed El-Walid, Taylor H Ferebee, Elizabeth H Gilmore, Matthew B Hufford, Lynn C Johnson, Elizabeth A Kellogg, Thuy La, Evan Long, Zachary R Miller, M Cinta Romay, **Arun S. Seetharam**, Michelle C Stitzer, Travis Wrightsman, Edward S Buckler, Brandon Monier, Sheng-Kai Hsu.
+Fishing for a reelGene: evaluating gene models with evolution and machine learning.
+_bioRxiv_,
+10.1101/2023.09.19.558246, 2023
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2023.09.19.558246)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
 
-## 2023
-<!-- pubs: 3; tot: 41 -->
+- Travis Wrightsman, Taylor H. Ferebee, M. Cinta Romay, Arun S. Seetharam, Taylor AuBuchon-Elder, Alyssa R. Phillips, Michael Syring, Matthew B. Hufford, Elizabeth A. Kellogg, and Edward S. Buckler,
+Current genomic deep learning architectures generalize across grass species but not alleles.
+_bioRxiv_,
+10.1101/2024.04.11.589024, 2024,
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2024.04.11.589024)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+
+
+- Urminder Singh, Jeffrey A. Haltom, Joseph W. Guarnieri, Jing Li, Arun Seetharam, Afshin Beheshti, Bruce Aronow, and Eve Syrkin Wurtele
+A pan-tissue, pan-disease compendium of human orphan genes
+_bioRxiv_,
+10.1101/2024.02.21.581488, 2024
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2024.02.21.581488)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/jahaltom/Orphan-Gene-Supp)
+
+
+## 2024
+
+<!-- pubs: 3; tot: 44 -->
+
+- Shujun Ou, Tyler Collins, Yinjie Qiu, **Arun S. Seetharam**, Claire C. Menard, Nancy Manchanda, Jonathan I Gent, Michael C. Schatz, Sarah. N. Anderson, Matthew B Hufford, and Candice N Hirsch.
+Differences in activity and stability drive transposable element variation in tropical and temperate maize. _Genome Research_, 34(8) 10.1101/gr.278131.123, 2024
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/gr.278131.123 )
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/oushujun)
+
+
 - Jessica A. Kinkade, **Arun S. Seetharam**, Shrikesh Sachdev, Nathan J. Bivens, Brett S. Phinney, Gabriela Grigorean, R Michael Roberts, Geetu Tuteja, Cheryl S. Rosenfeld, Extracellular vesicles from mouse trophoblast cells: effects on neural progenitor cells and potential participants in the placenta-brain Axis, _Biology of Reproduction_, ioad146, 2023.
 [<img src="https://img.shields.io/badge/-Artcile-lightgrey?style=flat"/>](https://doi.org/10.1093/biolre/ioad146)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://tuteja-lab.github.io/mouse.trophoblast.smallRNAseq)
 
+
+Foster Tyler L., Monika Kloiber-Maitz, Laurine Gilles, Ursula K. Frei, Sarah Pfeffer, Yu-Ru Chen, Somak Dutta, Arun S. Seetharam, Matthew B. Hufford, and Thomas Lübberstedt,
+Fine mapping of major QTL qshgd1 for spontaneous haploid genome doubling in maize (_Zea mays_ L.).
+_Theoretical and Applied Genetics_ 137, no. 5
+10.1007/s00122-024-04615-y
+[<img src="https://img.shields.io/badge/-Artcile-lightgrey?style=flat"/>](https://doi.org/10.1007/s00122-024-04615-y)
+
+
+## 2023
+<!-- pubs: 3; tot: 41 -->
+
+
+- Silas Tittes, Anne Lorant, Sean McGinty, James B. Holland, Jose de Jesus Sánchez-González, **Arun S. Seetharam**, Maud Tenaillon, and Jeffrey Ross-Ibarra,
+Not so local: the population genetics of convergent adaptation in maize and teosinte,
+ _eLife_, 12:RP92405
+10.7554/eLife.92405.1.sa2, 2023
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.7554/eLife.92405.1.sa2)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/silastittes/parv_local)
 
 
 - Thomas Hartwig, Michael Banf, Gisele Passaia Prietsch, Jia-Ying Zhu, Isabel Mora-Ramírez, Jos H. M. Schippers, Samantha J. Snodgrass, Arun S. Seetharam, Bruno Huettel, Judith M. Kolkman, Jinliang Yang, Julia Engelhorn, Zhi-Yong Wang, Hybrid allele-specific ChIP-seq analysis identifies variation in brassinosteroid-responsive transcription factor binding linked to traits in maize
