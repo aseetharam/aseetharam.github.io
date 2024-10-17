@@ -87,7 +87,7 @@ Differences in activity and stability drive transposable element variation in tr
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://tuteja-lab.github.io/mouse.trophoblast.smallRNAseq)
 
 
-Foster Tyler L., Monika Kloiber-Maitz, Laurine Gilles, Ursula K. Frei, Sarah Pfeffer, Yu-Ru Chen, Somak Dutta, Arun S. Seetharam, Matthew B. Hufford, and Thomas Lübberstedt,
+- Foster Tyler L., Monika Kloiber-Maitz, Laurine Gilles, Ursula K. Frei, Sarah Pfeffer, Yu-Ru Chen, Somak Dutta, Arun S. Seetharam, Matthew B. Hufford, and Thomas Lübberstedt,
 Fine mapping of major QTL qshgd1 for spontaneous haploid genome doubling in maize (_Zea mays_ L.).
 _Theoretical and Applied Genetics_ 137, no. 5
 10.1007/s00122-024-04615-y
